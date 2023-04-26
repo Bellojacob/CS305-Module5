@@ -1,5 +1,7 @@
 # CS305-Module5
-How to make a chatgpt clone:
+How to make a ChatGPT clone:
+
+
 Choose a language model framework: There are several language model frameworks available, including GPT-3, GPT-2, BERT, and others. You'll need to choose one that suits your needs and expertise.
 
 Collect and preprocess data: Language models require large amounts of data to train on, so you'll need to collect a dataset of conversational data. Preprocessing the data involves cleaning and formatting the text to remove irrelevant content, such as emojis and other special characters.
