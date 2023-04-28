@@ -13,3 +13,6 @@ Create an API: Once you've trained your model, you'll need to create an API that
 Integrate with a chatbot platform: To make your ChatGPT clone usable as a chatbot, you'll need to integrate it with a chatbot platform. This can be done using a variety of APIs and SDKs, depending on the platform you choose.
 
 Test and refine: Finally, you'll need to test your ChatGPT clone thoroughly to ensure that it's working as intended. This may involve using automated testing tools, as well as manual testing by human testers. You may also need to refine your model and API based on feedback from users.
+
+### Adding a New Calculator Module - Gannon
+In this module I am developing an advanced calculator that will allow users to solve even the toughest math problems. The module integrates with the existing user interface and database, allowing users to customize their calculator. The calculator module will improve the overall user experience and increase user engagement with the system.
